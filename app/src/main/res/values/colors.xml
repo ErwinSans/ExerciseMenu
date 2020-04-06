@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Judul">#000080</color>
+    <color name="Label">#800000</color>
+    <color name="Txt">#800000</color>
+    <color name="btn">#008577</color>
+    <color name="bg">#FFD700</color>
+    <color name="txt">#000000</color>
+    <color name="label">#000000</color>
+</resources>

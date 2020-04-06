@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Exercise Menu 18A</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="hsl">Ini tampilan Hasil</string>
+    <string name="txt3">Menu Hitung Bangun Datar</string>
+    <string name="mp">Masukan Panjang</string>
+    <string name="ml">Masukan Lebar</string>
+    <string name="hl">Hitung Luas</string>
+    <string name="lpp">Luas Persegi</string>
+    <string name="ms">Masukkan Sisi</string>
+    <string name="ll">Luas Lingkaran</string>
+    <string name="mj">Masukkan Jari-jari</string>
+    <string name="alas">Alas</string>
+    <string name="mt">Masukkan Tinggi</string>
+    <string name="mab">Masukkan panjang AB</string>
+    <string name="mff">Masukkan panjang FF</string>
+    <string name="mpt">Masukkan panjang t</string>
+
+</resources>
