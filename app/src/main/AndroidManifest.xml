@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RumusTrapesium"></activity>
+        <activity android:name=".KelilingPersegi"></activity>
+        <activity android:name=".RumusTrapesium" />
         <activity android:name=".RumusSegitiga" />
         <activity android:name=".RumusPersegiPanjang" />
         <activity android:name=".RumusLingkaran" />
